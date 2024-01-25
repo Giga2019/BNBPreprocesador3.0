@@ -1,0 +1,39 @@
+C:\Desarrollos\BNB\DipPreproBNB\DIPPreproBNB\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Desarrollos\BNB\DipPreproBNB\DIPPreproBNB\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Desarrollos\BNB\DipPreproBNB\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Desarrollos\BNB\DipPreproBNB\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNB\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNB\DIPPreproBNB\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNB\DIPPreproBNB\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNB\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNB\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCorrespondencia\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCorrespondencia\DIPPreproBNB\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCorrespondencia\DIPPreproBNB\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCorrespondencia\DIPPreproBNB\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCompContable\DIPPreproCC\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCompContable\DIPPreproCC\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCompContable\DIPPreproCC\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCompContable\DIPPreproCC\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csprojResolveAssemblyReference.cache
+C:\Users\Home1\Desktop\Carpeta Compartida\BNB\ASFI\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\Home1\Desktop\Carpeta Compartida\BNB\ASFI\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\Home1\Desktop\Carpeta Compartida\BNB\ASFI\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.CoreCompileInputs.cache
+C:\Users\Home1\Desktop\Carpeta Compartida\BNB\ASFI\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\Home1\Desktop\Carpeta Compartida\BNB\ASFI\DIPPreproBNBVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe.config
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.AssemblyReference.cache
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.CoreCompileInputs.cache
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb

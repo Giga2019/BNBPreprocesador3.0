@@ -1,0 +1,29 @@
+﻿<Documentos>
+   <book>
+      <TipoDocumento>R001</TipoDocumento>
+      <value>ASF Requerimientos</value>     
+   </book>
+    <book>
+      <TipoDocumento>R002</TipoDocumento>
+      <value>ASF Retenciones</value>     
+   </book>
+    <book>
+      <TipoDocumento>R003</TipoDocumento>
+      <value>ASF Suspension</value>
+   </book>
+    <book>      
+      <TipoDocumento>R004</TipoDocumento>
+      <value>ASF Remision</value>
+   </book>
+   <book>      
+      <TipoDocumento>R005</TipoDocumento>
+      <value>ASF Otros</value>
+   </book> 
+   <RutaArchivos>
+      <path>C:\ASFI Prueba\</path>
+   </RutaArchivos>
+   <TipoAplicacion>
+      <app>Ordered</app>
+   </TipoAplicacion>
+</Documentos>
+

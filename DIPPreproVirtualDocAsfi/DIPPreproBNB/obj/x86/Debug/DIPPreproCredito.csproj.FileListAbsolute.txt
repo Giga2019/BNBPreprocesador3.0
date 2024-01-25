@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\DIPPreproBNBCredito(CIC)\DIPPreproCredito\DIPPreproBNB\obj\x86\Debug\DIPPreproCredito.csprojResolveAssemblyReference.cache
