@@ -37,3 +37,11 @@ C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\D
 C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.CoreCompileInputs.cache
 C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
 C:\Users\Gigauno\Documents\BNB\DIPPreproVirtualDocAsfi\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe.config
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.exe
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\bin\Debug\DIPPreproBNB.pdb
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.AssemblyReference.cache
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.csproj.CoreCompileInputs.cache
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.exe
+C:\Users\Gigauno\Source\Repos\BNBPreprocesador3.0\DIPPreproVirtualDocAsfi\DIPPreproBNB\obj\x86\Debug\DIPPreproBNB.pdb

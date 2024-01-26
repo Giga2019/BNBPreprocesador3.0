@@ -37,7 +37,7 @@ namespace DIPPreproBNB
 
                 TiposDocumentos tp = new TiposDocumentos();
                 
-                log = new StreamWriter(@"C:\tempBC\log.txt");
+                log = new StreamWriter(@"c:\tempBC\log.txt");
                 log.WriteLine("Envia parametro de entrada/salida");
 
                 //System.IO.StreamReader textFile = new System.IO.StreamReader(@"D:\ASFI Prueba\BNB_DIP.txt");
